@@ -16,6 +16,7 @@ public class Serie {
                 System.out.println("Ingrese la Cantidad de Veces: ");
                 num=ent.nextInt();
                 System.out.println("hey y entonces!");
+                System.out.println("Swammy se la traga")
                 for (int i=1; i<=num; i++){                                       
                     if (n1%2!=0){                       
                         System.out.print(n1 + ", ");
